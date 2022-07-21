@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JenuGamesYT
 - 👀 I’m interested in Gaming Dovelopment
-- 🌱 I’m currently working Unity 3D
+- 🌱 I’m currently working on Unity 3D
 - 💞️ I’m looking to collaborate on Dovelopment
 - 📫 How to reach me hiteshmedia@gmail.com 9929588495
 

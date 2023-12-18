@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JenuGamesYT
-- 👀 I’m interested in Gaming Dovelopment
+- 👋 Hi, I’m @Hitesh Panchal
+- 👀 I’m interested in Game Dovelopment
 - 🌱 I’m currently working on Unity 3D
 - 💞️ I’m looking to collaborate on Dovelopment
 - 📫 How to reach me hiteshmedia@gmail.com 9929588495
